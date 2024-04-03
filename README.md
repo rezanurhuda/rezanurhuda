@@ -7,9 +7,12 @@
     <a href="https://www.instagram.com/rezanurhudaa?igsh=MzQxeG10Z2VnNHJm">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <a href="https://x.com/eveledixx?t=ci1y18vKFcIsp4hQ6nIqOA&s=08">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
   </div>
   <h1>
-    hey it's me Jay!
+    My name is Jay
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
