@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a student of degree Informatics in Diponegoro University.
+I'm a student of degree Informatics at Diponegoro University.
 - :telescope: Working as a Mobile Developer and contributing to frontend and backend for building mobile applications.
 
 - :seedling: Exploring and interested in Mobile Development also Image Processing.
