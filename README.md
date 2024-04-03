@@ -12,7 +12,6 @@ I'm open to collaborating on small projects related to Mobile App Development or
 
 ## Contact Me 📬
 - **WhatsApp:** [+6285959800137](https://wa.me/6285959800137)
-- **Instagram:** [@rezanurhudaa](https://www.instagram.com/rezanurhudaa/)
 
 ---
 
