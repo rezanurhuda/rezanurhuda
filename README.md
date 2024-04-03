@@ -10,10 +10,6 @@ I'm a passionate developer with a keen interest in Mobile App Development using 
 ## Collaboration
 I'm open to collaborating on small projects related to Mobile App Development or Image Processing. If you have an idea or need help with a project, feel free to reach out!
 
-## Contact Me
-- **WhatsApp:** [+6285959800137](https://wa.me/6285959800137)
-- **Instagram:** [@rezanurhudaa](https://www.instagram.com/rezanurhudaa/)
-
 ---
 
 Feel free to check out my repositories and don't hesitate to connect with me if you're interested in collaborating on a project!
