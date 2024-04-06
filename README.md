@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/rezanurhudaa?igsh=MzQxeG10Z2VnNHJm">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://x.com/eveledixx?t=ci1y18vKFcIsp4hQ6nIqOA&s=08">
+    <a href="https://x.com/rezanurhudaa?t=3BvILcF03hGLiYJ9Qqq3kA&s=08">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
