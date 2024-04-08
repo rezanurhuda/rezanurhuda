@@ -23,7 +23,7 @@ I'm a student of degree Informatics at Diponegoro University.
 
 - :seedling: Exploring and interested in Mobile Development also Image Processing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rezanurhuda-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Farid_Reza_Nurhuda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farid-reza-nurhuda-2597b9268)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
