@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TzQ4pMIO0E0DjUlcbB/giphy.gif?cid=790b7611wu04b64drumiw2u6m1b5d3r9x9zvz6b76tosw4it&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   <div id="badges">
+    <a href="https://www.linkedin.com/in/farid-reza-nurhuda-2597b9268">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
     <a href="https://www.instagram.com/rezanurhudaa?igsh=MzQxeG10Z2VnNHJm">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
